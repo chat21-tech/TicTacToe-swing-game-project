@@ -30,25 +30,21 @@ Project ini adalah aplikasi game Tic-Tac-Toe berbasis GUI menggunakan Java Swing
 6. Jalankan `Main.java`
 
 ## Penjelasan Class
-| Class             | Tanggung Jawab                                                                              |
-|                   |                                                                                             |
-| `Main`            | Titik awal program, membuka Login Window                                                    |
-| `DatabaseManager` | Mengurus koneksi JDBC ke MariaDB                                                            |
-| `Player`          | Class model yang menyimpan data pemain                                                      |
-| `PlayerService`   | Mengurus login, update statistik, dan Top 5 pemain                                          |
-| `GameLogic`       | Mengurus validasi gerakan, pengecekan pemenang, pengecekan seri, dan gerakan komputer       |
-| `LoginFrame`      | Tampilan GUI untuk login                                                                    |
-| `MainMenuFrame`   | Tampilan GUI untuk navigasi menu utama                                                      |
-| `GameFrame`       | Tampilan GUI untuk bermain game                                                             |
-| `StatisticsFrame` | Tampilan GUI untuk menampilkan statistik pribadi                                            |
-| `TopScorersFrame` | Tampilan GUI untuk menampilkan Top 5 pemain menggunakan JTable                              |
+1. Main = Titik awal program, membuka Login Window                                               
+2. DatabaseManager = Mengurus koneksi JDBC ke MariaDB                                                           
+3. Player = Class model yang menyimpan data pemain                                                  
+4. PlayerService = Mengurus login, update statistik, dan Top 5 pemain                                          
+5. GameLogic = Mengurus validasi gerakan, pengecekan pemenang, pengecekan seri, dan gerakan komputer       
+6. LoginFrame = Tampilan GUI untuk login                                                                    
+7. MainMenuFrame = Tampilan GUI untuk navigasi menu utama                                                      
+8. GameFrame = Tampilan GUI untuk bermain game                                                             
+9. StatisticsFrame = Tampilan GUI untuk menampilkan statistik pribadi                                            
+10. TopScorersFrame = Tampilan GUI untuk menampilkan Top 5 pemain menggunakan JTable                             
 
 ## Perhitungan Skor
-| Hasil | Skor |
-|       |      |
-| Menang| +10  |
-| Seri  | +3   |
-| Kalah | +0   |
+1. Menang +10  
+2. Seri +3   
+3. Kalah +0   
 
 ## Screenshots
 Bukti Screenshots ada di folder screenshots
