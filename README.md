@@ -50,7 +50,7 @@ Project ini adalah aplikasi game Tic-Tac-Toe berbasis GUI menggunakan Java Swing
 Bukti Screenshots ada di folder screenshots
 
 ## Link GitHub
-
+https://github.com/chat21-tech/TicTacToe-swing-game-project
 
 ## Link Video YouTube
 https://youtu.be/HK_8Ubm5NeY
