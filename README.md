@@ -53,4 +53,4 @@ Bukti Screenshots ada di folder screenshots
 
 
 ## Link Video YouTube
-[Video Demonstrasi](https://youtube.com/[LINK VIDEO KAMU])
+https://youtu.be/HK_8Ubm5NeY
